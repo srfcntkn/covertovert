@@ -6,8 +6,12 @@
 Covert Channel documentation
 ============================
 
-Please add your names, group ID, and your link to the forked public repository here by editing `index.rst` in the docs folder.
+| https://github.com/srfcntkn/covertovert
 
+| Ertuğrul Kalmaz 2530228
+| Şerif Can Tekin 2448892
+| Group 64
+| Covert Storage Channel that exploits Protocol Field Manipulation using Question - Type field in DNS [Code: CSC-PSV-DNS-QTF]
 
 .. toctree::
    :maxdepth: 2
